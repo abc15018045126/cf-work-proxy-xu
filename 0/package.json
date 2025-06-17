@@ -1,0 +1,20 @@
+{
+  "name": "vless-node-server",
+  "version": "1.0.0",
+  "description": "A VLESS WebSocket proxy server implemented in Node.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vless",
+    "proxy",
+    "websocket"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}

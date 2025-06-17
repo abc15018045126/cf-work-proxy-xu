@@ -1,0 +1,25 @@
+{
+  "name": "cf-work-proxy-xu",
+  "version": "1.0.0",
+  "description": "cf-work-proxy-xu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abc15018045126/cf-work-proxy-xu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abc15018045126/cf-work-proxy-xu/issues"
+  },
+  "homepage": "https://github.com/abc15018045126/cf-work-proxy-xu#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "ws": "^8.18.2"
+  }
+}
